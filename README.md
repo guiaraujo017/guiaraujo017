@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guiaraujo017
 - 👀 I’m interested in Python and SQL
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me gui.araujo09@gmail.com
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/guilherme-a-vasconcelos/)
 - ⚡ Fun fact: I love to game :)
 
 
